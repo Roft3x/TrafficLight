@@ -1,3 +1,3 @@
 # trafficlight
 
-just a project for internship
+just a project for an internship
